@@ -1,7 +1,3 @@
-Perfect! Let’s structure your HR Promotion ML project using the improved, reusable GitHub-ready format. I’ll make it professional, concise, and easy to update for future projects. I’ll base this on the typical workflow for an ML project in HR analytics. You can plug in your actual numbers, images, or links where indicated.
-
----
-
 # HR Promotion Prediction Machine Learning Project
 
 ## Project Overview
@@ -95,8 +91,6 @@ The dataset includes the following tables and features:
 
 ## Access the Project
 
-* [Download Dataset](link-to-dataset)
+* [Download Dataset]((https://github.com/Koladeadebiyi/HR-Promotion-/blob/main/promotion_dataset.csv))
 * [Jupyter Notebook / Code](link-to-repo-notebook)
 
----
-Do you want me to do that next?
