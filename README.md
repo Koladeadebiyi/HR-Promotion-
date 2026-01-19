@@ -91,6 +91,6 @@ The dataset includes the following tables and features:
 
 ## Access the Project
 
-* [Download Dataset](/HR-Promotion-/promotion_dataset.csv)
+* [Download Dataset](datasets/HR-Promotion-/promotion_dataset.csv)
 * [Jupyter Notebook / Code](link-to-repo-notebook)
 
