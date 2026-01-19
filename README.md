@@ -28,7 +28,7 @@ The dataset includes the following tables and features:
 * **Promotion History:** Previous promotions, promotion dates
 * **Additional Features:** Attendance, project involvement, awards
 
-<img width="441" height="236" alt="Screenshot 2026-01-19 231855" src="https://github.com/user-attachments/assets/18f6f9c8-2059-493a-b32e-9626d0c75747" />
+
 
 
 ---
@@ -62,6 +62,9 @@ The dataset includes the following tables and features:
 * **Model Performance:**
 
   * Random Forest achieved the best results: 82% accuracy, 0.78 F1-score, and ROC-AUC of 0.85.
+
+<img width="441" height="236" alt="Screenshot 2026-01-19 231855" src="https://github.com/user-attachments/assets/18f6f9c8-2059-493a-b32e-9626d0c75747" />
+
 
 ---
 
