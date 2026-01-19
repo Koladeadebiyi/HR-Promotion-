@@ -28,7 +28,7 @@ The dataset includes the following tables and features:
 * **Promotion History:** Previous promotions, promotion dates
 * **Additional Features:** Attendance, project involvement, awards
 
-<img width="900" alt="image-placeholder" src="link-to-dashboard-or-chart" />  
+<img width="900" alt="image-placeholder" src="C:\Users\kolad\OneDrive\Pictures\Screenshots\Screenshot 2026-01-19 231855.png" />
 
 ---
 
@@ -89,8 +89,5 @@ The dataset includes the following tables and features:
 
 ---
 
-## Access the Project
 
-* [Download Dataset](/HR-Promotion-/promotion_dataset.csv)
-* [Jupyter Notebook / Code](link-to-repo-notebook)
 
