@@ -45,6 +45,8 @@ The dataset includes the following tables and features:
    * Cross-validation to optimize hyperparameters
 5. **Evaluation:** Accuracy, Precision, Recall, F1-score, and ROC-AUC metrics
 6. **Interpretation:** Feature importance analysis to identify key drivers of promotion
+7. 
+<img width="733" height="557" alt="Screenshot 2025-12-13 121940" src="https://github.com/user-attachments/assets/ce267583-d351-428b-87a9-b731defce083" />
 
 ---
 
